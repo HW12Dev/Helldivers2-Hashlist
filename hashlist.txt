@@ -171,6 +171,41 @@ wwise_bank
 wwise_metadata
 wwise_dep
 
+// https://github.com/Xaymar/Hellextractor/blob/root/source/hd2_data.cpp
+animation_set
+blend_set
+chroma
+common_package
+compiled_shader
+crypto
+data
+disabled
+flow_editor
+mesh
+ini
+phsyics_data
+slug
+slug_album
+statemachine_editor
+timestamp
+tome
+user_settings
+volume
+xml
+ugg
+upb
+input
+xp
+vista
+w7
+w8
+main
+win32
+zD
+
+// from wwise_pluginw64_release.dll
+wwise_plugin
+
 // From Helldivers 2's game plugin
 content/objectives/obj_common/icbm_silo/decals/m_rocket_decal_0
 content/objectives/obj_common/icbm_silo/decals/m_rocket_decal_01
