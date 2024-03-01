@@ -31,6 +31,42 @@ gpu_resources
 
 indoor_environment
 
+// From Helldivers 2's rendering/renderer.render_config
+core/stingray_renderer/shader_libraries/default_shaders
+core/stingray_renderer/shader_libraries/development
+core/stingray_renderer/shader_libraries/cubemap
+core/stingray_renderer/shader_libraries/lighting
+core/stingray_renderer/shader_libraries/post_processing
+core/stingray_renderer/shader_libraries/fsr
+core/stingray_renderer/shader_libraries/screen_space_reflections
+core/stingray_renderer/shader_libraries/screen_space_global_illumination
+core/stingray_renderer/shader_libraries/placeholders
+core/stingray_renderer/shader_libraries/fxaa
+core/stingray_renderer/shader_libraries/terrain_utilities
+core/stingray_renderer/shader_libraries/baker
+core/stingray_renderer/shader_libraries/baker_filtering
+core/stingray_renderer/shader_libraries/missing_billboard
+core/stingray_renderer/shader_libraries/imp_utilities
+core/stingray_renderer/shader_libraries/multi_res_blending
+core/stingray_renderer/shader_libraries/checkerboard_resolve
+core/stingray_renderer/shader_libraries/water
+rendering/shader_libraries/minimap
+rendering/shader_libraries/imp
+rendering/shader_libraries/wounds
+rendering/shader_libraries/post_effects
+rendering/shader_libraries/vegetation_bending
+rendering/shader_libraries/fog_volumes_filtering
+rendering/shader_libraries/fog_volumes_particles
+rendering/shader_libraries/volumetric_clouds
+core/stingray_renderer/shader_libraries/atmosphere
+rendering/shader_libraries/hologram_filtering
+rendering/shader_libraries/planet_atmosphere_space
+rendering/shader_libraries/sun_lens_flare
+rendering/shader_libraries/utilities
+rendering/shader_libraries/palette
+rendering/shader_libraries/vista
+
+
 // From Stingray 1.9.0.0
 boot
 global
