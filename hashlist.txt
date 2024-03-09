@@ -1,3 +1,5 @@
+content/audio/custom
+
 content/audio/music
 content/audio/menu
 
@@ -336,6 +338,8 @@ materials
 baked_lighting
 entity_instance
 set_entity
+
+wwise_properties
 
 win32
 uwp
