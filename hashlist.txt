@@ -339,8 +339,6 @@ baked_lighting
 entity_instance
 set_entity
 
-wwise_properties
-
 win32
 uwp
 macosx
@@ -447,6 +445,24 @@ content/level_generation_settings/generated_level_rebuild_stamps
 content/level_generation_settings/generated_level_refresh_scatter
 content/level_generation_settings/generated_level_game_resources_reloaded
 content/art_shared/skydome/materials/aurora_01
+
+wwise_properties
+wwise_audio_render
+wwise_resource_update
+
+speedtree_resource
+speedtree_plugin
+speedtrees
+speedtree_physics
+
+ragdoll_actor
+mover
+vehicle
+silhouette
+ragdoll_proxy
+dev
+
+hkp_raycast_batch
 
 // From Helldivers 2's engine executable
 tag0
